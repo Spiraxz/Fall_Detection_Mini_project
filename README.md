@@ -60,5 +60,3 @@ pygame
 
 3. To stop the program, press the `q` key in the video feed window.
 
----
-
